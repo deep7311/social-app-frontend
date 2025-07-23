@@ -10,7 +10,7 @@ const GuestPage = () => {
         <div className="absolute -top-16 -left-16 w-60 h-60 bg-purple-600/30 rounded-full blur-3xl animate-pulse"></div>
 
         <h1 className="text-4xl md:text-5xl font-extrabold mb-5 tracking-tight">
-          Welcome to <span className="text-pink-400">ConnectVerse</span>
+          Welcome to <span className="text-pink-400">Connectify</span>
         </h1>
 
         <p className="text-base md:text-lg mb-7 text-white/80 leading-relaxed">
